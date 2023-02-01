@@ -8,7 +8,7 @@ Experience with C, C#, python and Node.js
 
 Here is a list of my open source projects you might find interesting:
 
-- Project 1: [Description](https://github.com/NNKTV28/Tiktok-Multi-tool)
+- Project 1: [Tiktok Multi tool that gives you followers, views and likes](https://github.com/NNKTV28/Tiktok-Multi-tool)
 - Project 2: [Description]
 - Project 3: [Description]
 Feel free to reach out to me for any questions or collaboration opportunities.
