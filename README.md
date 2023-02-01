@@ -1,8 +1,8 @@
-#About me
+# About me
 
 Hello, I'm NNKTV28! I'm a software developer and love to create projects that make a difference.
 
-#Skills
+# Skills
 Experience with C, C#, Python and Node.js
 
 Here is a list of my open source projects you might find interesting:
