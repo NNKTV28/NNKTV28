@@ -14,9 +14,9 @@ Here is a list of my open source projects you might find interesting:
 
 Feel free to reach out to me for any questions or collaboration opportunities.
 
-Email --> NNKTV28@email.com (This is fake email)
-Discord --> NNKtv28#7344
-Join my Discord server here --> 
+Email --> NNKTV28@email.com (This is fake email) <br />
+Discord --> NNKtv28#7344 <br />
+Join my Discord server here -->  <br />
 
 
 Have a great day!
