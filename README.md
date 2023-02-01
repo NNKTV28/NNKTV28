@@ -16,7 +16,7 @@ Feel free to reach out to me for any questions or collaboration opportunities.
 
 Email --> NNKTV28@email.com (This is fake email) <br />
 Discord --> NNKtv28#7344 <br />
-Join my Discord server here -->  <br />
+Join my Discord server here -->  https://discord.gg/PcQdpGnWzR <br />
 
 
 Have a great day!
