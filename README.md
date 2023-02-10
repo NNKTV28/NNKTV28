@@ -15,8 +15,8 @@ Here is a list of my open source projects you might find interesting:
 
 Feel free to reach out to me for any questions or collaboration opportunities.
 
-Email --> NNKtv28@proton.me <br />
-Discord --> NNKtv28#7344 <br />
-Join my Discord server here -->  [Python Communists](https://discord.gg/9fQymyuF4c) <br />
+**Email** --> NNKtv28@proton.me <br />
+**Discord** --> NNKtv28#7344 <br />
+**Join my Discord server here** -->  [Python Communists](https://discord.gg/9fQymyuF4c) <br />
 
-Have a great day!
+**Have a great day!**
