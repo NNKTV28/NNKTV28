@@ -18,5 +18,6 @@ Feel free to reach out to me for any questions or collaboration opportunities.
 **Email** --> NNKtv28@proton.me <br />
 **Discord** --> NNKtv28#7344 <br />
 **Join my Discord server here** -->  [Python Communists](https://discord.gg/9fQymyuF4c) <br />
+**Free  discord bot hosting 24/7 here** --> [ShadowHub](https://discord.gg/jJjn5tegTA)
 
 **Have a great day!**
