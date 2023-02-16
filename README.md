@@ -4,7 +4,7 @@
   <a href="https://github.com/NNKTV28">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/NNKTV28?style=social">
   </a>
-  <a href="https://discord.gg/9fQymyuF4c">
+  <a href="https://discord.gg/9fQymyuF4c"> 
     <img alt="Discord" src="https://img.shields.io/discord/771586192751603456?color=%237289DA&label=Python%20Communists&logo=discord">
   </a>
 </p>
