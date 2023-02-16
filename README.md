@@ -24,13 +24,13 @@
 
 <h2 align="center">Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/NNKTV28/Tiktok-Multi-tool">Tiktok Multi tool that gives you followers, views and likes</a> &bull;
-  <a href="https://github.com/NNKTV28/Unity-beautigul-light-and-shader-controllers">List of scripts to enhance lightning for Unity projects</a> &bull;
-  <a href="https://github.com/NNKTV28/Discord-Sniper-">Discord Selfbot with some commands in Node.js</a> &bull;
-  <a href="https://github.com/NNKTV28/Horse-animation">A running horse animation made using HTML, CSS and JavaScript</a> &bull;
-  <a href="https://github.com/NNKTV28/Discord-Music-bot.git">A basic Discord music bot using Lavalink</a>
-</p>
+<ul>
+  <li><a href="https://github.com/NNKTV28/Tiktok-Multi-tool">Tiktok Multi tool that gives you followers, views and likes</a></li>
+  <li><a href="https://github.com/NNKTV28/Unity-beautigul-light-and-shader-controllers">List of scripts to enhance lightning for Unity projects</a></li>
+  <li><a href="https://github.com/NNKTV28/Discord-Sniper-">Discord Selfbot with some commands in Node.js</a></li>
+  <li><a href="https://github.com/NNKTV28/Horse-animation">A running horse animation made using HTML, CSS and JavaScript</a></li>
+  <li><a href="https://github.com/NNKTV28/Discord-Music-bot.git">A basic Discord music bot using Lavalink</a></li>
+</ul>  
 
 <h2 align="center">Contact Me</h2>
 
