@@ -1,23 +1,43 @@
-# About me
+<h1 align="center">Hi there 👋, I'm NNKTV28</h1>
 
-Hello, I'm NNKTV28! I'm a software developer and love to create projects that make a difference.
+<p align="center">
+  <a href="https://github.com/NNKTV28">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/NNKTV28?style=social">
+  </a>
+  <a href="https://discord.gg/9fQymyuF4c">
+    <img alt="Discord" src="https://img.shields.io/discord/771586192751603456?color=%237289DA&label=Python%20Communists&logo=discord">
+  </a>
+</p>
 
-# Skills
-Experience with C, C#, Python and Node.js
+<p align="center">I'm a software developer who loves to create projects that make a difference.</p>
 
-Here is a list of my open source projects you might find interesting:
+<h2 align="center">Skills</h2>
 
-- **Project 1:** [Tiktok Multi tool that gives you followers, views and likes](https://github.com/NNKTV28/Tiktok-Multi-tool)
-- **Project 2:** [List of scripts to enhance lightning for Unity projects](https://github.com/NNKTV28/Unity-beautigul-light-and-shader-controllers)
-- **Project 3:** [Discord Selfbot with some commands in Node.js](https://github.com/NNKTV28/Discord-Sniper-)
-- **Project 4:** [A running horse animation made using HTML, CSS and JavaScript](https://github.com/NNKTV28/Horse-animation)
-- **Project 5:** [A basic Discord music bot using Lavalink](https://github.com/NNKTV28/Discord-Music-bot.git)
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
+</p>
 
-Feel free to reach out to me for any questions or collaboration opportunities.
+<h2 align="center">Projects</h2>
 
-**Email** --> NNKtv28@proton.me <br />
-**Discord** --> NNKtv28#7344 <br />
-**Join my Discord server here** -->  [Python Communists](https://discord.gg/9fQymyuF4c) <br />
-**Free  discord bot hosting 24/7 here** --> [ShadowHub](https://discord.gg/jJjn5tegTA)
+<p align="center">
+  <a href="https://github.com/NNKTV28/Tiktok-Multi-tool">Tiktok Multi tool that gives you followers, views and likes</a> • 
+  <a href="https://github.com/NNKTV28/Unity-beautigul-light-and-shader-controllers">List of scripts to enhance lightning for Unity projects</a> • 
+  <a href="https://github.com/NNKTV28/Discord-Sniper-">Discord Selfbot with some commands in Node.js</a> • 
+  <a href="https://github.com/NNKTV28/Horse-animation">A running horse animation made using HTML, CSS and JavaScript</a> • 
+  <a href="https://github.com/NNKTV28/Discord-Music-bot.git">A basic Discord music bot using Lavalink</a>
+</p>
 
-**Have a great day!**
+<h2 align="center">Contact Me</h2>
+
+<p align="center">
+  <a href="mailto:NNKtv28@proton.me">Email</a> • 
+  <a href="https://discord.gg/9fQymyuF4c">Discord</a> • 
+  <a href="https://discord.gg/jJjn5tegTA">Free Discord bot hosting 24/7</a>
+</p>
+
+<p align="center">Feel free to reach out to me for any questions or collaboration opportunities.</p>
+
+<p align="center">Have a great day! 😄</p>
