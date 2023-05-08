@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=NNKTV28&label=Profile%20views&color=0e75b6&style=flat" alt="NNKTV28" />
   <a href="https://github.com/NNKTV28?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/NNKTV28?color=0e75b6&label=Followers&logo=GitHub&logoColor=white&style=flat-square"/></a>
   <a href="https://discord.gg/RQ2NB2V9av"><img alt="Discord" src="https://img.shields.io/discord/771586192751603456?color=0e75b6&label=Discord&logo=discord&logoColor=white&style=flat-square"></a>
-  <img alt="Discord" src="https://img.shields.io/discord/1062813278843175032?label=Discord">
+  <a href="https://discord.gg/RQ2NB2V9av"><img alt="Discord" src="https://img.shields.io/discord/1062813278843175032?label=Discord">
 </p>
 
 <p align="center">I'm a passionate software developer who loves creating projects that make a difference.</p>
