@@ -19,13 +19,13 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Csharp&svgfill=659b60">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=659b60">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=659b60">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
   <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324" alt="Rust" />
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Rust&svgfill=659b60">
   
 </p>
 
