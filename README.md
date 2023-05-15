@@ -45,8 +45,7 @@
 
 <p align="center">
   <a href="mailto:NNKtv28@proton.me">Email</a> &bull;
-  <a href="https://discord.gg/9fQymyuF4c">Discord</a> &bull;
-  <a href="https://discord.gg/jJjn5tegTA">Free Discord bot hosting 24/7</a>
+  <a href="https://discord.gg/RQ2NB2V9av">Discord</a> &bull;
 </p>
 
 <p align="center">Feel free to reach out to me for any questions or collaboration opportunities.</p
