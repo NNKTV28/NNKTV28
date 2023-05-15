@@ -9,7 +9,7 @@
     <img alt="Discord" src="https://img.shields.io/discord/771586192751603456?color=0e75b6&label=Discord&logo=discord&logoColor=white&style=flat-square">
   </a>
   <a href="https://discord.gg/RQ2NB2V9av">
-    <img src= "https://discord.com/api/guilds/1062813278843175032/widget.json">
+    <iframe src="https://discord.com/widget?id=1062813278843175032&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </a>
 </p>
 
