@@ -24,7 +24,6 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-  <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324" alt="Rust" />
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Rust&svgfill=659b60">
   
 </p>
