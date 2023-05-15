@@ -44,8 +44,8 @@
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:NNKtv28@proton.me">Email</a> &bull;
-  <a href="https://discord.gg/RQ2NB2V9av">Discord</a> &bull;
+  <a href="mailto:nnktv28@gmail.com">Email</a> &bull;
+  <a href="https://discord.gg/RQ2NB2V9av">Discord</a>
 </p>
 
 <p align="center">Feel free to reach out to me for any questions or collaboration opportunities.</p
