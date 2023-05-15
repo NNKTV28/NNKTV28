@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
