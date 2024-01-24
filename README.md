@@ -4,17 +4,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nnktv28&label=Profile%20views&color=0e75b6&style=flat" alt="nnktv28" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nnktv28" alt="nnktv28" /></a> </p>
-<p align="center">
-- 🔭 I’m currently working on [Ark .ini file generator](https://github.com/NNKTV28/Ark-ini-generator.git)
+<p align="center">- 🔭 I’m currently working on [Ark .ini file generator](https://github.com/NNKTV28/Ark-ini-generator.git)</p>
 
-- 🌱 I’m currently learning **Next.js, Vue and Rust**
+<p align="center">- 🌱 I’m currently learning **Next.js, Vue and Rust**</p>
 
-- 💬 Ask me about **Node.js**
+<p align="center">- 💬 Ask me about **Node.js**</p>
 
-- 📫 How to reach me **nnktv28@gmail.com**
+<p align="center">- 📫 How to reach me **nnktv28@gmail.com**</p>
 
-- ⚡ Fun fact **I love discord bots**
-</p>
+<p align="center">- ⚡ Fun fact **I love discord bots**</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://discord.gg/570539075753345024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="570539075753345024" height="30" width="40" /></a>
