@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NNKtv28</h1>
 <h3 align="center">I'm a passionate software developer who loves creating projects that make a difference. Im the owner of Angel Development discord bots</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnktv28&label=Profile%20views&color=0e75b6&style=flat" alt="nnktv28" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nnktv28&label=Profile%20views&color=0e75b6&style=flat" alt="nnktv28" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nnktv28" alt="nnktv28" /></a> </p>
 
