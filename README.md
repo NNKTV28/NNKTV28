@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnktv28&label=Profile%20views&color=0e75b6&style=flat" alt="nnktv28" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnktv28" alt="nnktv28" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nnktv28" alt="nnktv28" /></a> </p>
 
 - 🔭 I’m currently working on [Ark .ini file generator](https://github.com/NNKTV28/Ark-ini-generator.git)
 
