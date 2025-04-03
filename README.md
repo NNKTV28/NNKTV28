@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/NNKtv28">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=520&lines=Web+Developer+Graduate;Backend+Developer;Freelancer">
+  </a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Aurora<br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with AWS<br>🌱 I’m currently learning Android Studio<br>💬 Ask me about NodeJS<br>⚡ Fun fact I hate paywalls
 
