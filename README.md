@@ -8,11 +8,11 @@
 
 Hello there! I'm a backend developer passionate about creating efficient and scalable solutions.
 
-- 🔭 Currently building: **Aurora** project
+- 🔭 Currently building: **SkiTrack** project
 - 🌱 Learning: **Android Studio** development
 - 👯 Looking to collaborate on: Open source projects
-- 💬 Ask me about: **NodeJS**, backend architecture
-- 🤝 Seeking help with: **AWS** cloud infrastructure
+- 💬 Ask me about: **Android Studio**, backend architecture
+- 🤝 Seeking help with: **Java API** cloud infrastructure
 - ⚡ Fun fact: I have a deep aversion to paywalls
 
 ## 🔧 Skills & Technologies
