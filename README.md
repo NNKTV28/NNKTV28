@@ -12,7 +12,7 @@ Hello there! I'm a backend developer passionate about creating efficient and sca
 - 🌱 Learning: **Android Studio** development
 - 👯 Looking to collaborate on: Open source projects
 - 💬 Ask me about: **Android Studio**, backend architecture
-- 🤝 Seeking help with: **Java API** cloud infrastructure
+- 🤝 Seeking help with: **Java APIs**
 - ⚡ Fun fact: I have a deep aversion to paywalls
 
 ## 🔧 Skills & Technologies
