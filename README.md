@@ -45,6 +45,7 @@ Hello there! I'm a backend developer passionate about creating efficient and sca
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Odoo](https://img.shields.io/badge/odoo-%234e2a8e.svg?style=for-the-badge&logo=odoo&logoColor=white)
 
 ## 📊 GitHub Stats
 
