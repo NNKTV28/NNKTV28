@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NNKtv28">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1500&center=true&vCenter=true&width=520&lines=Web+Developer;Backend+Specialist;Open+Source+Contributor">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1500&center=true&vCenter=true&width=520&lines=Web+Developer;Backend+Specialist;Open+Source+Contributor;Mobile+Developer">
   </a>
 </p>
 
