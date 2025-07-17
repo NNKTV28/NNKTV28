@@ -6,7 +6,7 @@
 
 # 👨‍💻 About Me
 
-Hello there! I'm a backend developer passionate about creating efficient and scalable solutions.
+Hello there! I'm a developer passionate about creating efficient and scalable solutions.
 
 - 🔭 Currently building: **SkiTrack** project
 - 🌱 Learning: **Android Studio** development
