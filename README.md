@@ -8,11 +8,11 @@
 
 Hello there! I'm a developer passionate about creating efficient and scalable solutions.
 
-- 🔭 Currently building: **SkiTrack** project
-- 🌱 Learning: **Android Studio** development
+- 🔭 Currently building: **ZeroPi** project
+- 🌱 Learning: **Bash** development
 - 👯 Looking to collaborate on: Open source projects
-- 💬 Ask me about: **Android Studio**, backend architecture
-- 🤝 Seeking help with: **Java APIs**
+- 💬 Ask me about: **RaspberriPI**, backend architecture
+- 🤝 Seeking help with: **RaspberriPI 5 architecture**
 - ⚡ Fun fact: I have a deep aversion to paywalls
 
 ## 🔧 Skills & Technologies
