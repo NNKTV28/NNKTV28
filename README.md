@@ -8,11 +8,11 @@
 
 Hello there! I'm a developer passionate about creating efficient and scalable solutions.
 
-- 🔭 Currently building: **ZeroPi** project
+- 🔭 Currently building: **[o2limitchallenge](https://o2limitchallenge.duckdns.org)** website
 - 🌱 Learning: **Bash** development
 - 👯 Looking to collaborate on: Open source projects
-- 💬 Ask me about: **RaspberriPI**, backend architecture
-- 🤝 Seeking help with: **RaspberriPI 5 architecture**
+- 💬 Ask me about: My love for coffee
+- 🤝 Seeking help with: **RaspberriPI 5 dashboard controller for my cluster**
 - ⚡ Fun fact: I have a deep aversion to paywalls
 
 ## 🔧 Skills & Technologies
