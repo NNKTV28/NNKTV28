@@ -9,7 +9,7 @@
 Hello there! I'm a developer passionate about creating efficient and scalable solutions.
 
 - 🔭 Currently building: **[o2limitchallenge](https://o2limitchallenge.duckdns.org)** website
-- 🌱 Learning: **Bash** development
+- 🌱 Learning: **New Web technologies**
 - 👯 Looking to collaborate on: Open source projects
 - 💬 Ask me about: My love for coffee
 - 🤝 Seeking help with: **RaspberriPI 5 dashboard controller for my cluster**
