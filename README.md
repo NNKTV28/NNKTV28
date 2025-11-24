@@ -81,13 +81,11 @@ Hello there! I'm a developer passionate about creating efficient and scalable so
 ## 🚀 Featured Projects
 
 <div align="center">
-  <!-- Replace 'AetherRAT' with the actual repo name if different -->
-  <a href="https://github.com/NNKtv28/AetherRAT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKtv28&repo=AetherRAT&theme=dark" alt="AetherRAT" />
+  <a href="https://github.com/NNKTV28/InaNews-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=InaNews-Bot&theme=dark" alt="InaNews-Bot" />
   </a>
-  <!-- Replace 'o2limitchallenge' with your actual repo name if you have one, or another top project -->
-  <a href="https://github.com/NNKtv28/o2limitchallenge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKtv28&repo=o2limitchallenge&theme=dark" alt="o2limitchallenge" />
+  <a href="https://github.com/NNKTV28/aurora-multi-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=aurora-multi-tool&theme=dark" alt="aurora-multi-tool" />
   </a>
 </div>
 
