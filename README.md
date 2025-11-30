@@ -15,7 +15,7 @@
 
 Hello there! I'm a developer passionate about creating efficient and scalable solutions.
 
-- 🔭 **Currently building:** [o2limitchallenge](https://o2limitchallenge.duckdns.org) website
+- 🔭 **Currently building:** [o2limitchallenge](https://o2limitchallenge.nikicoding.com) website
 - 🌱 **Learning:** Advanced Web Technologies & Rust
 - 👯 **Looking to collaborate on:** Open Source IoT & Web Tooling projects
 - 💬 **Ask me about:** Backend Architecture & My love for coffee ☕
