@@ -154,7 +154,14 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable s
 ## :trophy: Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NNKtv28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+![Repos](https://img.shields.io/badge/Repos-62-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Followers](https://img.shields.io/badge/Followers-20-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Stars Earned](https://img.shields.io/badge/Stars_Earned-23-1a1b27?style=for-the-badge&logo=star&logoColor=yellow&labelColor=0d1117)
+![Contributions](https://img.shields.io/badge/Contributions-537+-1a1b27?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Years Active](https://img.shields.io/badge/Years_Active-5+-1a1b27?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d1117)
+![Languages](https://img.shields.io/badge/Languages-10+-1a1b27?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117)
+
 </div>
 
 ---
