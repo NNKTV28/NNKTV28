@@ -81,12 +81,17 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable s
 ## :chart_with_upwards_trend: GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NNKtv28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NNKtv28&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NNKtv28&theme=tokyonight" width="95%" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNKtv28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NNKtv28&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NNKtv28&theme=tokyonight" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NNKtv28&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NNKtv28&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
 <br/>
@@ -99,26 +104,50 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable s
 
 ## :rocket: Featured Projects
 
-<div align="center">
-  <a href="https://github.com/NNKTV28/Ark-ini-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=Ark-ini-generator&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NNKTV28/ARK-SA-Ping-Locations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=ARK-SA-Ping-Locations&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NNKTV28/Electriciview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=Electriciview&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NNKTV28/mc-server-promoter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=mc-server-promoter&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NNKTV28/Quantam-software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=Quantam-software&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NNKTV28/aurora-multi-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNKTV28&repo=aurora-multi-tool&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/NNKTV28/Ark-ini-generator">Ark INI Generator</a></h3>
+      <p>Generate GameUserSettings.ini for ARK: Survival Ascended</p>
+      <img src="https://img.shields.io/github/stars/NNKTV28/Ark-ini-generator?style=flat-square&color=yellow" />
+      <img src="https://img.shields.io/github/language/top/NNKTV28/Ark-ini-generator?style=flat-square" />
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/NNKTV28/ARK-SA-Ping-Locations">ARK SA Ping Locations</a></h3>
+      <p>Ping all note locations on the ARK: SA minimap</p>
+      <img src="https://img.shields.io/github/stars/NNKTV28/ARK-SA-Ping-Locations?style=flat-square&color=yellow" />
+      <img src="https://img.shields.io/github/language/top/NNKTV28/ARK-SA-Ping-Locations?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/NNKTV28/Electriciview">Electriciview</a></h3>
+      <p>Android app to view & analyze electricity consumption</p>
+      <img src="https://img.shields.io/github/stars/NNKTV28/Electriciview?style=flat-square&color=yellow" />
+      <img src="https://img.shields.io/github/language/top/NNKTV28/Electriciview?style=flat-square" />
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/NNKTV28/mc-server-promoter">MC Server Promoter</a></h3>
+      <p>Full-stack platform for Minecraft server promotion</p>
+      <img src="https://img.shields.io/github/stars/NNKTV28/mc-server-promoter?style=flat-square&color=yellow" />
+      <img src="https://img.shields.io/github/language/top/NNKTV28/mc-server-promoter?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/NNKTV28/Quantam-software">Quantam Software</a></h3>
+      <p>All-in-One developer toolkit to streamline your workflow</p>
+      <img src="https://img.shields.io/github/stars/NNKTV28/Quantam-software?style=flat-square&color=yellow" />
+      <img src="https://img.shields.io/github/language/top/NNKTV28/Quantam-software?style=flat-square" />
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/NNKTV28/aurora-multi-tool">Aurora Multi-Tool</a></h3>
+      <p>Comprehensive Windows system utility suite</p>
+      <img src="https://img.shields.io/github/stars/NNKTV28/aurora-multi-tool?style=flat-square&color=yellow" />
+      <img src="https://img.shields.io/github/language/top/NNKTV28/aurora-multi-tool?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
