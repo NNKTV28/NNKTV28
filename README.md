@@ -110,13 +110,13 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable s
       <h3><a href="https://github.com/NNKTV28/Ark-ini-generator">Ark INI Generator</a></h3>
       <p>Generate GameUserSettings.ini for ARK: Survival Ascended</p>
       <img src="https://img.shields.io/github/stars/NNKTV28/Ark-ini-generator?style=flat-square&color=yellow" />
-      <img src="https://img.shields.io/github/language/top/NNKTV28/Ark-ini-generator?style=flat-square" />
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/NNKTV28/ARK-SA-Ping-Locations">ARK SA Ping Locations</a></h3>
       <p>Ping all note locations on the ARK: SA minimap</p>
       <img src="https://img.shields.io/github/stars/NNKTV28/ARK-SA-Ping-Locations?style=flat-square&color=yellow" />
-      <img src="https://img.shields.io/github/language/top/NNKTV28/ARK-SA-Ping-Locations?style=flat-square" />
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -124,27 +124,27 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable s
       <h3><a href="https://github.com/NNKTV28/Electriciview">Electriciview</a></h3>
       <p>Android app to view & analyze electricity consumption</p>
       <img src="https://img.shields.io/github/stars/NNKTV28/Electriciview?style=flat-square&color=yellow" />
-      <img src="https://img.shields.io/github/language/top/NNKTV28/Electriciview?style=flat-square" />
+      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/NNKTV28/mc-server-promoter">MC Server Promoter</a></h3>
       <p>Full-stack platform for Minecraft server promotion</p>
       <img src="https://img.shields.io/github/stars/NNKTV28/mc-server-promoter?style=flat-square&color=yellow" />
-      <img src="https://img.shields.io/github/language/top/NNKTV28/mc-server-promoter?style=flat-square" />
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/NNKTV28/Quantam-software">Quantam Software</a></h3>
-      <p>All-in-One developer toolkit to streamline your workflow</p>
-      <img src="https://img.shields.io/github/stars/NNKTV28/Quantam-software?style=flat-square&color=yellow" />
-      <img src="https://img.shields.io/github/language/top/NNKTV28/Quantam-software?style=flat-square" />
+      <h3><a href="https://github.com/NNKTV28/Discord-server-backup-bot">Discord Server Backup</a></h3>
+      <p>Backup & restore your Discord server, fully local</p>
+      <img src="https://img.shields.io/github/stars/NNKTV28/Discord-server-backup-bot?style=flat-square&color=yellow" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/NNKTV28/aurora-multi-tool">Aurora Multi-Tool</a></h3>
       <p>Comprehensive Windows system utility suite</p>
       <img src="https://img.shields.io/github/stars/NNKTV28/aurora-multi-tool?style=flat-square&color=yellow" />
-      <img src="https://img.shields.io/github/language/top/NNKTV28/aurora-multi-tool?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
     </td>
   </tr>
 </table>
@@ -154,14 +154,7 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable s
 ## :trophy: Achievements
 
 <div align="center">
-
-![Repos](https://img.shields.io/badge/Repos-62-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Followers](https://img.shields.io/badge/Followers-20-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Stars Earned](https://img.shields.io/badge/Stars_Earned-23-1a1b27?style=for-the-badge&logo=star&logoColor=yellow&labelColor=0d1117)
-![Contributions](https://img.shields.io/badge/Contributions-537+-1a1b27?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Years Active](https://img.shields.io/badge/Years_Active-5+-1a1b27?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d1117)
-![Languages](https://img.shields.io/badge/Languages-10+-1a1b27?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NNKtv28&theme=tokyonight&utcOffset=1" height="180em" />
 </div>
 
 ---
