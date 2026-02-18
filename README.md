@@ -20,7 +20,7 @@
 
 I'm a **Full Stack Developer** with a passion for building efficient, scalable solutions — from web platforms and mobile apps to data pipelines and Discord bots. With **50+ original repositories** spanning **10+ languages**, I enjoy tackling problems across the entire stack.
 
-- :telescope: **Currently building:** [RecoilApp](github.com/RecoilApp) — a real time messaging infrastructure
+- :telescope: **Currently building:** [RecoilApp](https://github.com/RecoilApp) — a real time messaging infrastructure
 - :seedling: **Exploring:** Machine Learning, Advanced Data Visualization & Cloud Infrastructure
 - :video_game: **Gaming tools:** Created popular ARK: Survival Ascended utilities (config generators, ping maps)
 - :iphone: **Mobile dev:** Built Android apps with Kotlin (Electriciview, LuismiXmasCalendar)
